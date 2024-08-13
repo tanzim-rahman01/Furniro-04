@@ -1,0 +1,293 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.Item-u{
+    margin-left: 100px;
+}
+.Item-u li{
+    padding: 0 30px;
+}
+.Item-ut{
+    margin-left: 80px;
+}
+.Item-ut li{
+    padding: 0 25px;
+}
+.Nav-02{
+    width: 100%;
+    height: 100px;
+    background-color:#F9F1E7;
+}
+.itemLink{
+    display: flex;
+    padding: 30px 50px;
+}
+.section-03{
+    margin-top: 30px;
+}
+.img-coner img{
+    margin-bottom: 10px;
+}
+.benner{
+    height: 450px;
+    width: 470px;
+    background-color: #F9F1E7;
+}
+.LineBrak{
+    margin-left: 10px;
+}
+.box-3 img{
+    width: 10px;
+    height: 10px;
+    
+}
+.LineBrak-1{
+    margin-top: -30px;
+    margin-left: 160px;
+    color: #9F9F9F;
+    line-height:normal;
+}
+.LineBrak-2{
+    color: #9F9F9F;
+    line-height: normal;
+}
+.box-01{
+    width: 30px;
+    height: 30px;
+    background-color: #F9F1E7;
+    border-radius: 4px;
+    transition-property: width;
+}
+.box-02{
+    width: 30px;
+    height: 30px;
+    background-color: #F9F1E7;
+    margin-left: 10px;
+    border-radius: 4px;
+    transition-property: width;
+}
+.box-03{
+    width: 30px;
+    height: 30px;
+    background-color: #F9F1E7;
+    margin-left: 10px;
+    border-radius: 4px;
+    transition-property: width;
+}
+.box-3{
+    display: flex;
+    
+}
+.box-3 p{
+    font-size: 15px;
+    padding:5px 5px;
+}
+.box-03:hover{
+    background-color:peru;
+    width: 30px;
+    height: 30px;
+}
+.box-02:hover{
+    background-color:peru;
+    width: 30px;
+    height: 30px;
+}
+.box-01:hover{
+    background-color:peru ;
+    width: 30px;
+    height: 30px;
+}
+.tupu{
+    margin-top: 5px;
+}
+.box-5{
+    display: flex;
+}
+.box-07{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background: blue;
+}
+.box-08{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background:black;
+    margin-left: 10px;
+}
+.box-09{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background: peru;
+    margin-left: 10px;
+}
+
+
+
+.box-4{
+    margin-top: 10px;
+    display: flex;
+}
+.box-04{
+    width: 125px;
+    height: 60px;
+    border: 1px solid black;
+    border-radius: 10px;
+    display: flex;
+}
+.box-04 p{
+    padding:15px;
+}
+.box-05{
+    width: 215px;
+    height: 60px;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-left: 10px;
+}
+.box-05 h5{
+    justify-content: center;
+    margin-top: 14px;
+    margin-left: 50px;
+    font-size:20px;
+}
+.box-06{
+    width: 215px;
+    height: 60px;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-left: 10px;
+}
+.box-0006{
+    display: flex;
+    justify-content: center;
+    margin-top: 14px;
+    font-size:20px;
+}
+.box-6{
+    border-bottom: 1px solid  #9F9F9F;
+    margin-top: 30px;
+   
+}
+
+.section-04{
+    margin-top: 70px;
+    margin-bottom: 30px;
+    
+}
+.mein-01{
+    display: flex;
+    justify-content: center;
+    line-height: normal;
+   
+  
+}
+.mein-01 h3{
+    text-align: center;
+    margin-left: 70px;
+    justify-content: center;
+    font-size: 25px;
+    
+} 
+.meain-02{
+    padding: 20px 190px;
+    color: #9F9F9F;
+}
+.meain-03{
+    padding: 20px 190px;
+    color: #9F9F9F;  
+}
+.box-001{
+    width: 600px;
+    height: 300px;
+    background-color: #F9F1E7;
+}
+
+.section-05{
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+.tup-001{
+    margin-top: 40px;
+}
+.meain-007{
+    text-align: center;
+    line-height: normal;
+}
+.pp-1{
+   display: flex;
+
+}
+.popo-01{
+    color: #9F9F9F;
+}
+.pupo{
+    color: #9F9F9F;
+}
+.card{
+    position: relative;
+}
+.img-orund{
+    background-color: orange;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    margin-left: 240px;
+    margin-top: 15px;
+}
+.img-orund-1{
+    background-color:paleturquoise ;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    margin-left: 240px;
+    margin-top: 15px;
+}
+.img-orund p{
+   margin-top: 9px;
+   margin-left: 3px;
+}
+.img-orund-1 p{
+    margin-top: 9px;
+    margin-left: 3px;
+}
+.ItemNav{
+    text-align: center;
+    margin-top: 30px;
+    width:150px;
+    height: 30px;
+    border: 1px solid peru;
+    color: peru;
+   justify-content: center;
+   margin-left: 47%;
+} 
+.Fotter{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.Fot-01{
+    margin-top: 20px;
+    color: #9F9F9F;
+}
+.Fot-02{
+    color: #9F9F9F;
+    margin-bottom: 30px;
+}
+.Fot-3 a{
+   margin-bottom: 15px;
+}
+.bunotn{
+    border: none !important;
+    
+}
+.med-footer{
+    border-bottom: 1px solid black;
+}
+.section-7{
+    margin-top: 30px;
+}
